@@ -7,6 +7,7 @@ Currently this site is not attached to any domain name, so it can only run local
 
 
 ## TO DO:
+
 * Format Workshops page to include pagination holding all available workshops, details, and slides
 * Formate Events page to include calendar with all currently scheduled events, possibly hooked up to google calendar?
 * Design Home page to include relevant information, links, etc
@@ -14,7 +15,13 @@ Currently this site is not attached to any domain name, so it can only run local
 * Add link to email list or GroupMe somewhere
 
 ### Changelog:
-2/22/24:
-  Formatted About page, added page titles, navbar, headers, temp images
-2/23/24:
-  Updated logo on header 
+
+----------
+
+**2/22/24:**
+<br>
+* Formatted About page, added page titles, navbar, headers, temp images
+
+**2/23/24:**
+<br>
+* Updated logo on header 
