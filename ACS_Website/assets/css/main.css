@@ -2275,6 +2275,15 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		top: 40%;
+	}
+
+	.icon.alt {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+		top: 20%;
+		left: 1%;
 	}
 
 		.icon:before {
@@ -2422,11 +2431,13 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			
 		}
 
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1em 0 0;
+				
 			}
 
 				ul.icons li:last-child {
@@ -2808,7 +2819,7 @@
 			color: #484848;
 			font-weight: 400;
 			height: 3;
-			left: 1.25em;
+			left: 4.25em;
 			line-height: 1.5;
 			margin: 0;
 			padding: 0;
@@ -2891,7 +2902,7 @@
 
 			#header.alt h1 {
 				color: #ffffff;
-				left: 2.5em;
+				left: 4.5em;
 				top: 1em;
 			}
 
