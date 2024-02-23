@@ -24,4 +24,5 @@ Currently this site is not attached to any domain name, so it can only run local
 
 **2/23/24:**
 <br>
-* Updated logo on header 
+* Updated logo on header
+* Added pagination to workshop page
