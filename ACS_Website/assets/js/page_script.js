@@ -1,5 +1,5 @@
 //script.js 
-const cardsPerPage = 4; // Number of cards to show per page 
+const cardsPerPage = 1; // Number of cards to show per page 
 const dataContainer = document.getElementById('data-container'); 
 const pagination = document.getElementById('pagination'); 
 const prevButton = document.getElementById('prev'); 
