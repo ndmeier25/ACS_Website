@@ -2738,7 +2738,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+			background-image: url("images/overlay.png"), url("../../images/ACS_logo_ms_paint.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -2794,25 +2794,27 @@
 		font-size: 1.25em;
 		height: 4.5em;
 		left: 0;
-		line-height: 4.4em;
+		line-height: 1.8em;
 		position: fixed;
 		text-transform: uppercase;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
 		z-index: 10001;
+		vertical-align: middle;
 	}
 
 		#header h1 {
 			color: #484848;
 			font-weight: 400;
-			height: inherit;
+			height: 3;
 			left: 1.25em;
-			line-height: inherit;
+			line-height: 1.5;
 			margin: 0;
 			padding: 0;
 			position: absolute;
-			top: 0;
+			top: 15%;
+			
 		}
 
 		#header nav {
@@ -2820,8 +2822,7 @@
 			line-height: inherit;
 			position: absolute;
 			right: 1.25em;
-			top: 0;
-			vertical-align: middle;
+			top: 30%;
 		}
 
 			#header nav ul {
@@ -2883,15 +2884,15 @@
 			background-color: transparent;
 			border: 0;
 			box-shadow: none;
-			height: 3.25em;
-			line-height: 3.25em;
+			height: 3em;
+			line-height: 1.25em;
 			position: absolute;
 		}
 
 			#header.alt h1 {
 				color: #ffffff;
 				left: 2.5em;
-				top: 2em;
+				top: 1em;
 			}
 
 				#header.alt h1 a {
@@ -2900,7 +2901,7 @@
 
 			#header.alt nav {
 				right: 2em;
-				top: 2em;
+				top: 1em;
 			}
 
 				#header.alt nav a {
@@ -3093,7 +3094,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/ACS_logo_ms_paint.jpg");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
@@ -3184,10 +3185,11 @@
 /* Footer */
 
 	#footer {
-		padding: 8em 0 6em 0;
+		padding: 3em 0 1em 0;
 		background: #f6f6f6;
 		color: #aaa;
 		text-align: center;
+		
 	}
 
 		#footer a {
