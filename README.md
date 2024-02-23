@@ -17,4 +17,4 @@ Currently this site is not attached to any domain name, so it can only run local
 2/22/24:
   Formatted About page, added page titles, navbar, headers, temp images
 2/23/24:
-  Updated logo on header
+  Updated logo on header 
