@@ -1678,7 +1678,7 @@
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2575,7 +2575,7 @@
 		color: #aaa;
 		position: relative;
 		margin: 0 0 1.5em 0;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 	header h2 + p {
@@ -2807,7 +2807,7 @@
 		left: 0;
 		line-height: 1.8em;
 		position: fixed;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		top: 0;
 		width: 100%;
 		z-index: 10000;
@@ -2912,7 +2912,7 @@
 
 			#header.alt nav {
 				right: 2em;
-				top: 1em;
+				top: 2em;
 			}
 
 				#header.alt nav a {
@@ -3002,7 +3002,7 @@
 		max-width: 80%;
 		width: 20em;
 		padding: 0.5em 1.25em;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 		#navPanel ul {
@@ -3128,7 +3128,7 @@
 			color: #aaa;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 
 		@media screen and (max-width: 1280px) {
