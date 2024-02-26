@@ -8,10 +8,10 @@ Currently this site is not attached to any domain name, so it can only run local
 
 ## TO DO:
 
-* Format Workshops page to include pagination holding all available workshops, details, and slides
-* Formate Events page to include calendar with all currently scheduled events, possibly hooked up to google calendar?
+* ~~Format Workshops page to include pagination holding all available workshops, details, and slides~~
+* ~~Formate Events page to include calendar with all currently scheduled events, possibly hooked up to google calendar?~~
 * Design Home page to include relevant information, links, etc
-* Add social media links other than this repo
+* ~~Add social media links other than this repo~~
 * Add link to email list or GroupMe somewhere
 
 ### Changelog:
@@ -26,3 +26,8 @@ Currently this site is not attached to any domain name, so it can only run local
 <br>
 * Updated logo on header
 * Added pagination to workshop page
+
+**2/24/24**
+<br>
+* Added working calendar!
+* Formatted socials links
