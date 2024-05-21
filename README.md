@@ -31,3 +31,7 @@ Currently this site is not attached to any domain name, so it can only run local
 <br>
 * Added working calendar!
 * Formatted socials links
+
+**5/21/24**
+<br>
+* Updated file system organization
