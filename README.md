@@ -35,3 +35,9 @@ Currently this site is not attached to any domain name, so it can only run local
 **5/21/24**
 <br>
 * Updated file system organization
+
+**5/22/24**
+<br>
+* Added more social media links
+* Added Slideshows on home page
+* Updated home page photos
