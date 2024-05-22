@@ -10,9 +10,9 @@ Currently this site is not attached to any domain name, so it can only run local
 
 * ~~Format Workshops page to include pagination holding all available workshops, details, and slides~~
 * ~~Formate Events page to include calendar with all currently scheduled events, possibly hooked up to google calendar?~~
-* Design Home page to include relevant information, links, etc
+* ~~Design Home page to include relevant information, links, etc~~
 * ~~Add social media links other than this repo~~
-* Add link to email list or GroupMe somewhere
+* ~~Add link to email list~~ or GroupMe somewhere
 
 ### Changelog:
 
