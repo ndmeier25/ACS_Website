@@ -13,6 +13,10 @@ Currently this site is not attached to any domain name, so it can only run local
 * ~~Design Home page to include relevant information, links, etc~~
 * ~~Add social media links other than this repo~~
 * ~~Add link to email list~~ or GroupMe somewhere
+* Add member bios to about page
+* Add mission statement
+* Add upcoming event flyers
+  
 
 ### Changelog:
 
@@ -41,3 +45,9 @@ Currently this site is not attached to any domain name, so it can only run local
 * Added more social media links
 * Added Slideshows on home page
 * Updated home page photos
+
+**5/22/24**
+<br>
+* Added more member bios
+* Cleaned html format to be more readable
+* Added previous event photos
