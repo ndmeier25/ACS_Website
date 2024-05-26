@@ -14,7 +14,7 @@ Currently this site is not attached to any domain name, so it can only run local
 * ~~Add social media links other than this repo~~
 * ~~Add link to email list~~ or GroupMe somewhere
 * Add member bios to about page
-* Add mission statement
+* ~~Add mission statement~~
 * Add upcoming event flyers
   
 
