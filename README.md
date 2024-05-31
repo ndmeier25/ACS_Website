@@ -51,3 +51,10 @@ Currently this site is not attached to any domain name, so it can only run local
 * Added more member bios
 * Cleaned html format to be more readable
 * Added previous event photos
+
+**5/31/24**
+<br>
+* Added more member photos
+* Cleaned up slideshow script
+* Cleaned up css files
+* Removed unnecessary template files
