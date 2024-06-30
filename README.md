@@ -6,6 +6,8 @@ I've never used Git, Github, HTML, or CSS before, so to say this will be a work 
 Currently this site is not attached to any domain name, so it can only run locally.
 
 
+### NOTE: This repo is now archived, as ownership was transfered to a neutral acsumich account to preserve functionality after I graduate.
+
 ## TO DO:
 
 * ~~Format Workshops page to include pagination holding all available workshops, details, and slides~~
@@ -58,3 +60,7 @@ Currently this site is not attached to any domain name, so it can only run local
 * Cleaned up slideshow script
 * Cleaned up css files
 * Removed unnecessary template files
+
+**6/30/24**
+<br>
+* Archived Repository
